@@ -98,3 +98,11 @@ alt="Building a Raspberry Pi Carputer" width="240" height="180" border="10" /></
 * [Guide to Using Socket.io](http://nodesource.com/blog/understanding-socketio/)
 
 * [SQLite with Python](http://zetcode.com/db/sqlitepythontutorial/)
+
+## GPIO Guides
+
+* [Using GPIO with Python](https://sourceforge.net/p/raspberry-gpio-python/wiki/BasicUsage/)
+
+* [Raspberry Pi Foundation Intro to GPIO](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/README.md)
+
+* [Awesome Interactive GPIO Pinout Diagram](https://pinout.xyz/)
