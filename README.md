@@ -106,3 +106,23 @@ alt="Building a Raspberry Pi Carputer" width="240" height="180" border="10" /></
 * [Raspberry Pi Foundation Intro to GPIO](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/README.md)
 
 * [Awesome Interactive GPIO Pinout Diagram](https://pinout.xyz/)
+
+## Scripting in Linux/Bash
+
+* [Settling into Unix](http://matt.might.net/articles/settling-into-unix/)
+
+* [Survival Guide for Unix newbies](http://matt.might.net/articles/basic-unix/)
+
+* [Shell Programming with bash: by example, by counter-example](http://matt.might.net/articles/bash-by-example/)
+
+* [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+
+## Python and Python Scripts
+
+* [Udemy - Complete Python Masterclass by Tim Buchalka](https://www.udemy.com/python-the-complete-python-developer-course/learn/v4/overview)
+
+* [Configparser - create a config file](https://docs.python.org/3.4/library/configparser.html)
+
+* [Configparser examples](https://wiki.python.org/moin/ConfigParserExamples)
+
+* [How to write a Python cleanup script](https://pythontips.com/2014/01/23/python-101-writing-a-cleanup-script/)
